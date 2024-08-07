@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+
+header{
+    height: 30px;
+    background-color: rgb(251,121,6);
+    color: white;
+    font-size: 12px;
+    font-weight: 150;
+    display: flex;
+    align-items: center;
+}
+
+div{
+    float: left;
+}
+
+#location{
+    margin-left: 80px;
+    margin-right: 20px;
+    
+}
+
+a{
+    color: white;
+}
+
+#iitpatna{
+    height: 113px;
+    width: 100%;
+    background-color: rgb(9,90,163);
+    justify-content: center;
+}
+
+img{
+    max-height: 92px;
+    max-width: 100%;
+}
